@@ -28,11 +28,10 @@ happen for those who don't trust Google and choose to wait to see a doctor. If t
 Andrew Le was on his last rotation as a medical student at Harvard when he witnessed a concerning number 
 of patients coming into the ER after misinterpreting information they found online, 
 and watched them make poor health decisions. At that same time, his father found 
-out he had a mini stroke, but not until months after it had happened. He later found out that his father considered searching his symptoms when he had them, but he didn't trust Google. That was the emotional breaking point that lead Andrew into  
-devoting his time and energy towards developing a better tool for people to check on their symptoms, and what better time than the rise of A.I. technology. 
+out he had a mini stroke, but not until months after it had happened. He later found out that his father considered searching his symptoms when he had them, but he didn't trust Google. That was the emotional breaking point that lead Andrew into devoting his time and energy towards developing a better tool for people to check on their symptoms, and what better time than the rise of A.I. technology. 
 Andrew Le finished his doctorate of medicine, and in 2014 went on sabbitical, 
 spending his time at Harvard Innovation Labs with a team of three 
-other people, Adam Lathram (marketing & current President), Nate Ren (marketing), 
+other people, Adam Lathram (consulting & current President), Nate Ren (marketing), 
 and Eddie Reyes (technical), and together they founded Buoy. The first funding they received was 
 from an invester they met at a donor event after presenting their work, and it grew 
 from there. Since then, they've raised ["over $67 million, with prominent healthcare investors 
@@ -60,7 +59,9 @@ from over 18,000 clinical papers, covering 5 million patients and spanning 1,700
 According to a peer reviewed article from the Nation Center for Biotechnology Information, Buoy's symptom checker
 uses natural language processing (NLP) to interpret all that data, and intelligently decides which of the 30,000 questions to ask next, using the principle of greatest reduction of diagnostic uncertainty [[NCBI Article]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7748958/). 
 
-![alt text](https://cdn.sanity.io/images/0b678gck/~production/77e826a80731b7ace83c38872bc03afe74597970-624x1065.png?w=350&q=35&auto=format&dpr=1)
+![alt text](https://cdn.sanity.io/images/0b678gck/~production/b769056d574305ccdd8e5d140fdfd25bdf93ce75-624x1065.png?w=300&q=30&auto=format&dpr=1)
+![alt text](https://cdn.sanity.io/images/0b678gck/~production/58a179bdb5118cbc64250bf16f0c9dcf7dfcb0da-624x1065.png?w=300&q=30&auto=format&dpr=1)
+![alt text](https://cdn.sanity.io/images/0b678gck/~production/77e826a80731b7ace83c38872bc03afe74597970-624x1065.png?w=300&q=30&auto=format&dpr=1)
 
 
 
@@ -88,7 +89,7 @@ In an early peer-reviewed study done in 2019 at the Medical College of Wisconsin
 * What technologies would this additional product or service utilize?
 * Why are these technologies appropriate for your solution?
 -->
-Buoy has shifted towards more marketing and business initiatives, partnering with companies to build their **Marketplace** and working with employers instead of indivual users. I'm not sure if it's in correlation to their mediocre performance 
+Buoy has shifted towards more marketing and business initiatives, partnering with companies to build their **Marketplace** and working with employers instead of indivual users. I'm not sure the exact reasoning why, but two of the 4 co-founders no longer work for Buoy, Nate Ren (marketing), and Eddie Reyes (technical); this is just speculation, but there could be a link between them leaving and the shift in the company. If I had to make recommendations for the company as an outsider, who doesn't have access to their finances, I would first recommend making an app version of the symptom checker. They've talked about it for years, and almost all their competitors have one. Next, would be to invest in improving the accuracy of symptom checker. It does [well as far as coverage of conditions, suggesting next steps](https://bmjopen.bmj.com/content/10/12/e040269.long), but those suggestions aren't that valuable if the conditions aren't accurately predicted. Ada has proven it's possible to achieve better results, and that's probably the most important metric needed to stay relevant in the field. One bold suggestion would be to follow in the steps of Docus, and implement a more free form communication with the A.I. since that's rare and more appealing to consumers. If you are an employer looking for benefit programs, or if you don't have insurance and are interested in their niche health care options, it may be worth checking out Buoy for those reasons. If you are someone who just wants to check if they need to see a doctor, I would recommend checking out Buoy's symptom checker, but also check with Ada and at least one other to compare. These tools can be very powerful when used together, and may just save you and other people a lot of trouble.  
 
 
 ### Sources
