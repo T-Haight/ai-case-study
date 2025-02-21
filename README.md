@@ -1,4 +1,5 @@
-# Buoy Health Case Study
+# Buoy Health Case Study (By: Thomas Haight)
+
 ![alt text](https://github.com/user-attachments/assets/592cce0c-c9b7-4b09-bc95-3c65abc81640)
 
 <!--Make sure to include headers, sub headers, bold some text, include hyper links, logo of the company, additional metrics related to the company, some pictures etc  (you can use some of the resource included above for the syntaxes).-->
